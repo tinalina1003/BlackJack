@@ -24,4 +24,4 @@ print(deck)
 def drawPhase():
     draw = print("You drew ")
 
-print("test12321321")
+print("test")
